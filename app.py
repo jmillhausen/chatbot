@@ -137,9 +137,3 @@ with st.sidebar:
     
     st.divider()
     st.caption("Made with ⚡ by SnapLogic")
-```
-
-**File 2: `requirements.txt`**
-```
-streamlit
-requests
