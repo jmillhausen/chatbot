@@ -10,7 +10,7 @@ st.set_page_config(
 )
 
 # API Configuration
-API_URL = "https://snapgpt.labs.snaplogic.com/api/1/rest/slsched/feed/snaplogic/Bootcamp/AMER_November_2025/Agent_Jordan_api"
+API_URL = "https://snapgpt.labs.snaplogic.com/api/1/rest/slsched/feed/snaplogic/Bootcamp/AMER_November_2025/Agent_Slarson_API"
 HEADERS = {
     "Authorization": "Bearer 12345",
     "Content-Type": "application/json"
